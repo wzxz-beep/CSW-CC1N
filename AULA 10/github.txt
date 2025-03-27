@@ -1,0 +1,9 @@
+html - linguagem de marcação
+tag - marcação especifica do html
+title - titulo da pagina
+h1- titulo do conteúdo
+inicio da internet - 1960
+protocolo nsp -
+interworking - 2º nome da inernet
+código binário 
+
