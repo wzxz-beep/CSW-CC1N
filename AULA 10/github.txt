@@ -6,4 +6,14 @@ inicio da internet - 1960
 protocolo nsp -
 interworking - 2º nome da inernet
 código binário 
+domínio - endereço da internet
+img src 
+alt - descrição da imagem
+semântica - o que da sentido as palavras
+forma - mudança visual do conteúdo
+lista ordenada - ol
+lista - li
+ul - lista n ordenada
+rowspan - 
+href - link externo
 
