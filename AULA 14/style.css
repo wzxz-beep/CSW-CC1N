@@ -1,9 +1,22 @@
 #tit {
     align-self: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(3, , rgb(16, 16, 165));
+    color: rgb(3,  rgb(16, 16, 165));
 }
 
 #sub{
     color: darkgreen;
+}
+div {
+    background-color: aqua;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+div:houver {
+    color: bisque;
+    
 }
