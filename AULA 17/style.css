@@ -1,0 +1,23 @@
+div {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    display:block;
+    padding: 5px;
+    background-color: rgb(127, 255, 238);
+}
+
+div div div {
+    width: 450px;
+    background-color: rgb(228,215,215);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+div div div imput {
+    width: 100%;
+
+}
