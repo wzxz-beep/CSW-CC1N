@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AULA 19</title>
+</head>
+<body>
+    <div>
+        <h2>Mostrar idade</h2>
+        <h3>Regras</h3>
+        <p>1.Idade menor que 0 - idade inválida</p>
+        <p>2.Idade igaul a 0 - é recem nascido</p>
+    </div>
+    <div>
+        <label for="digeiteidade">Digite a idade:</label>
+        <input type="number"  name="digiteidade" id="InputUsuario" size="60" maxlength="100" value="" placeholder="Digite a idade"> 
+        <button onclick="enviarresposta()">Identiifcar</button>
+        <input id="ipusuario" size="60"> <button onclick="enviaresposta()">Enviar Resposta</button>
+    <br>
+        <script type="text/Javascript">
+            function enviaresposta() {
+              var iu = document.getelementbyid('inputusuario').value;
+              if iu > 0
+                resultado (0);
+                else if iu = 0 
+                    resultado(1);
+                    if iu > 0 && iu < 10
+                resultado (2);
+                else if iu > 15 && iu < 25
+                    resultado(4);
+                else if iu > 24 && iu < 60
+                    resultado(4);
+                else if iu > 59
+                    resultado(6); 
+                else
+                    resultado(7);                                          
+              window.alert('For digitado'+ iu);  
+            }
+        </script>
+    </div>
+    <div>
+        <h1></h1>
+    </div>
+</body>
+</html>
